@@ -1,15 +1,3 @@
-# ROOT beginners' tutorial: organiser's folder
-
-This folder holds the participant manual, all example code, and the tools that
-build them.
-
-## What to send to participants
-
-`root-tutorial-participants.zip` contains the manual (PDF), all example macros
-(`macros/`) and the exercise solutions (`solutions/`). It does not include any
-generated files, so participants make the plots and ROOT files themselves.
-Rebuild it with `tools/make_participant_zip.sh`.
-
 ## Files
 
 | Path | What it is |
