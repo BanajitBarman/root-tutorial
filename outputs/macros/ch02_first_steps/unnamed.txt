@@ -1,0 +1,4 @@
+Processing unnamed.C...
+x       = 3
+sqrt(x) = 1.73205
+x^3     = 27

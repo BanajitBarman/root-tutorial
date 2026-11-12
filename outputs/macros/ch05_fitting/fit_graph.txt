@@ -1,0 +1,13 @@
+Processing fit_graph.C...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      2.69021
+NDf                       =            7
+Edm                       =  5.41509e-06
+NCalls                    =           49
+p0                        =   -0.0163367   +/-   0.0342054   
+p1                        =      4.05047   +/-   0.0616625   
+
+Slope = 4.05047 +- 0.0616625 s^2/m
+g     = 9.74662 +- 0.148378 m/s^2
+Info in <TCanvas::Print>: png file fit_graph.png has been created

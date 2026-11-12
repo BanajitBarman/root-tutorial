@@ -1,0 +1,13 @@
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      52.9448
+NDf                       =           43
+Edm                       =  5.45987e-06
+NCalls                    =           53
+Constant                  =      49.0973   +/-   1.98969     
+Mean                      =      5.09064   +/-   0.0511566   
+Sigma                     =      1.54279   +/-   0.0385196    	 (limited)
+Mean  = 5.091 +- 0.051
+Sigma = 1.543 +- 0.039
+chi2/ndf = 52.9 / 43
+Info in <TCanvas::Print>: png file pyroot_basic.png has been created

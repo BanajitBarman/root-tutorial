@@ -1,0 +1,8 @@
+Processing functions.C...
+f2(5.5)                 = 0.61987
+Integral of f2 (0..10)  = 1.40371
+  (expected 0.8*0.7*sqrt(2 pi) = 1.40371)
+Derivative of f1 at x=1 = 2.32521
+Maximum of f2 is at x   = 5
+f3 = 0.5 at x           = 7
+Info in <TCanvas::Print>: png file functions.png has been created

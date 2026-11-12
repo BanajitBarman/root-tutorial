@@ -1,0 +1,5 @@
+Processing graph_basic.C...
+Number of points: 13
+Point 6: hour = 12, temperature = 29.1
+Temperature at 13:00 (linear interpolation) = 29.8
+Info in <TCanvas::Print>: png file graph_basic.png has been created

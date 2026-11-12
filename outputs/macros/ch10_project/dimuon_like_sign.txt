@@ -1,0 +1,3 @@
+Opposite-charge pairs: 104822
+Same-charge pairs    : 42847
+Info in <TCanvas::Print>: png file dimuon_like_sign.png has been created

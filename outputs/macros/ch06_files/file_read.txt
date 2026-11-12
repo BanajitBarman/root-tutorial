@@ -1,0 +1,9 @@
+Processing file_read.C...
+TFile**		my_results.root	
+ TFile*		my_results.root	
+  KEY: TDirectoryFile	calibration;1	calibration
+  KEY: TGraph	gResponse;1	Detector response
+  KEY: TH1D	hEnergy;1	Deposited energy
+  KEY: TH1D	hAngle;1	Polar angle
+hEnergy: 10000 entries, mean 29.4931 MeV
+Info in <TCanvas::Print>: png file file_read.png has been created

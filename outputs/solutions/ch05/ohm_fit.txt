@@ -1,0 +1,11 @@
+Processing ohm_fit.C...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      1.09209
+NDf                       =            8
+Edm                       =  2.65996e-11
+NCalls                    =           72
+p0                        =    0.0289339   +/-   0.0824023   
+p1                        =      2.19547   +/-   0.0132804   
+R = 2.195 +- 0.013 kOhm
+Info in <TCanvas::Print>: png file ohm_fit.png has been created

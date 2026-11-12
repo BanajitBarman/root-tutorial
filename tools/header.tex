@@ -1,0 +1,31 @@
+% Extra LaTeX settings for the PDF version of the manual
+\usepackage{float}
+\floatplacement{figure}{H}
+\usepackage{fvextra}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{breaklines,breakanywhere,commandchars=\\\{\}}
+\usepackage[most]{tcolorbox}
+\definecolor{notebg}{HTML}{EEF4FA}
+\definecolor{noteframe}{HTML}{2F6FAE}
+\definecolor{outbg}{HTML}{F6F6F4}
+\definecolor{outframe}{HTML}{C9C9C4}
+% Block quotes are used for tips and warnings: draw them as a box
+\renewenvironment{quote}%
+  {\begin{tcolorbox}[breakable,enhanced,colback=notebg,colframe=noteframe,
+     boxrule=0pt,leftrule=3pt,arc=0pt,outer arc=0pt,left=8pt,right=8pt,top=5pt,bottom=5pt]}%
+  {\end{tcolorbox}}
+% Program output
+\newtcolorbox{outputbox}{breakable,enhanced,colback=outbg,colframe=outframe,
+  boxrule=0.4pt,arc=1pt,left=5pt,right=5pt,top=3pt,bottom=3pt}
+% Headings in a sans-serif font
+\usepackage{titlesec}
+\titleformat{\chapter}[display]{\sffamily\bfseries\huge}{}{0pt}{}
+\titlespacing*{\chapter}{0pt}{-20pt}{24pt}
+\titleformat*{\section}{\sffamily\bfseries\Large}
+\titleformat*{\subsection}{\sffamily\bfseries\large}
+\titleformat*{\subsubsection}{\sffamily\bfseries\normalsize}
+\usepackage{etoolbox}
+\AtBeginEnvironment{longtable}{\small}
+\setlength{\parskip}{4pt}
+% Characters that the main font does not have
+\usepackage{newunicodechar}
+\newunicodechar{→}{\ensuremath{\rightarrow}}

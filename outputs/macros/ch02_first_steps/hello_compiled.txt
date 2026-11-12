@@ -1,0 +1,3 @@
+Processing hello_compiled.C...
+Hello from ROOT 6.40.04!
+sqrt(6 * sum) = 3.14159

@@ -1,0 +1,3 @@
+Processing graph_errors.C...
+Read 9 points from pendulum.txt
+Info in <TCanvas::Print>: png file graph_errors.png has been created

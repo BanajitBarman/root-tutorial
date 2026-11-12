@@ -1,0 +1,4 @@
+Info in <TCanvas::Print>: png file cms_dimuon_spectrum.png has been created
+Muon pairs in the plot: 746358
+Exactly two muons   : pass=982287     all=2000000    -- eff=49.11 % cumulative eff=49.11 %
+Opposite charge     : pass=746358     all=982287     -- eff=75.98 % cumulative eff=37.32 %

@@ -1,0 +1,5 @@
+Mean r of selected events: 12.45 cm
+Energy > 30 GeV     : pass=11079      all=50000      -- eff=22.16 % cumulative eff=22.16 %
+At least 10 hits    : pass=11026      all=11079      -- eff=99.52 % cumulative eff=22.05 %
+Wrote selected.root
+Info in <TCanvas::Print>: png file rdf_exercise.png has been created

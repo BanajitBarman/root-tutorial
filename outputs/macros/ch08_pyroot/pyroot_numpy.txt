@@ -1,0 +1,5 @@
+Entries: 100000.0
+First five bins: [11661. 10420.  9225.  7983.  7214.]
+Type: <class 'numpy.ndarray'>
+Fitted lifetime = 1.993  (generated 2.0)
+Info in <TCanvas::Print>: png file pyroot_numpy.png has been created

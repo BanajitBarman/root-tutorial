@@ -1,0 +1,3 @@
+Processing rdf_basic_cpp.C...
+Selected events: 11079
+Info in <TCanvas::Print>: png file rdf_basic_cpp.png has been created

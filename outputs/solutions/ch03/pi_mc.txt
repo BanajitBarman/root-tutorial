@@ -1,0 +1,3 @@
+Processing pi_mc.C...
+pi = 3.1414 +- 0.0016   (true value 3.1416)
+Info in <TCanvas::Print>: png file pi_mc.png has been created

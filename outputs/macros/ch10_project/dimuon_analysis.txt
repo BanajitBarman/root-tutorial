@@ -1,0 +1,27 @@
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      108.948
+NDf                       =           95
+Edm                       =  4.47215e-08
+NCalls                    =          149
+Height                    =      471.171   +/-   11.9814     
+Mass                      =      3.09609   +/-   0.00082117  
+Width                     =    0.0334608   +/-   0.000776435 
+BkgConst                  =      6.10536   +/-   0.081913    
+BkgSlope                  =    -0.308468   +/-   0.0265361   
+
+================ RESULTS ================
+Mass        = 3096.1 +- 0.8 MeV
+Width       = 33.5 +- 0.8 MeV (detector resolution)
+Signal      = 3952 events
+In +-3 sigma: S = 3941, B = 3463, S/B = 1.14
+Significance S/sqrt(S+B) = 45.8
+chi2/ndf    = 108.9 / 95
+PDG: J/psi mass = 3096.9 MeV
+=========================================
+
+Exactly two muons   : pass=147669     all=279657     -- eff=52.80 % cumulative eff=52.80 %
+Opposite charge     : pass=104822     all=147669     -- eff=70.98 % cumulative eff=37.48 %
+Saved dimuon_overview.png, dimuon_fit.png and dimuon_results.root
+Info in <TCanvas::Print>: png file dimuon_overview.png has been created
+Info in <TCanvas::Print>: png file dimuon_fit.png has been created

@@ -1,0 +1,8 @@
+Processing hist_operations.C...
+Energy 5.2 GeV is in bin 11 (from 5 to 5.5 GeV, centre 5.25)
+Bin 11: all = 921, detected = 861
+Total detected            : 15907
+Detected with E in [0, 2] : 1413
+Entries in (all + detected) / 2 : 17953.5
+Bins before rebin: 20, after: 10
+Info in <TCanvas::Print>: png file hist_operations.png has been created

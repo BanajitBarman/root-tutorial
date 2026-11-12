@@ -1,0 +1,17 @@
+Processing fit_gaus.C...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      52.9448
+NDf                       =           43
+Edm                       =  5.45987e-06
+NCalls                    =           53
+Constant                  =      49.0973   +/-   1.98969     
+Mean                      =      5.09064   +/-   0.0511566   
+Sigma                     =      1.54279   +/-   0.0385196    	 (limited)
+
+--- Results ---
+Mean  = 5.09064 +- 0.0511566
+Sigma = 1.54279 +- 0.0385196
+chi2 / ndf = 52.9448 / 43 = 1.23128
+Fit probability = 0.142307
+Info in <TCanvas::Print>: png file fit_gaus.png has been created

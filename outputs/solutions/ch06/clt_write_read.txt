@@ -1,0 +1,6 @@
+Processing clt_write_read.C...
+TFile**		clt.root	
+ TFile*		clt.root	
+  KEY: TDirectoryFile	sums;1	sums
+hSum12: mean = 6.00301 (expected 6), std dev = 0.998899 (expected 1)
+Info in <TCanvas::Print>: png file clt_read.png has been created

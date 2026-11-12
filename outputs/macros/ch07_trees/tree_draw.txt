@@ -1,0 +1,5 @@
+Processing tree_draw.C...
+Events with nHits > 20: 7382
+Mean distance r: 12.4834 cm
+Events with energy > 50 GeV: 4104
+Info in <TCanvas::Print>: png file tree_draw.png has been created

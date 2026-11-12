@@ -1,0 +1,3 @@
+Processing damped.C...
+Info in <TCanvas::Print>: png file damped.png has been created
+Info in <TCanvas::Print>: pdf file damped.pdf has been created

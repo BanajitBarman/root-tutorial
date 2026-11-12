@@ -1,0 +1,4 @@
+Wrote skim.root
+Events in skim : 4104
+Mean energy    : 70.26 GeV
+Largest energy : 229.54 GeV

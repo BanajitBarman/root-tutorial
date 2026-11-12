@@ -1,0 +1,6 @@
+Processing hist_basic.C...
+Entries : 10000
+Mean    : -0.000621535
+Std Dev : 1.0171
+Bin with x = 1.0 is bin number 30, it has 530 entries
+Info in <TCanvas::Print>: png file hist_basic.png has been created

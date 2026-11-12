@@ -1,0 +1,12 @@
+Processing muon_lifetime.C...
+****************************************
+Minimizer is Minuit2 / Migrad
+MinFCN                    =      15.7982
+Chi2                      =      31.5964
+NDf                       =           38
+Edm                       =  1.01899e-06
+NCalls                    =           44
+Constant                  =      6.34435   +/-   0.020924    
+Slope                     =    -0.454031   +/-   0.00732798  
+Lifetime = 2.202 +- 0.036 us   (true value 2.197 us)
+Info in <TCanvas::Print>: png file muon_lifetime.png has been created

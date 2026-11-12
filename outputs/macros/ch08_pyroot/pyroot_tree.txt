@@ -1,0 +1,4 @@
+Events in tree: 50000
+Events with energy > 50 GeV: 4104
+Average number of hits: 11.00
+Event 0: energy = 17.49 GeV, hits: [11.06, 6.44]

@@ -1,0 +1,4 @@
+Processing hist_2d.C...
+Correlation factor = 0.595541
+Projection on x: mean = -0.00283017, std dev = 1.00002
+Info in <TCanvas::Print>: png file hist_2d.png has been created

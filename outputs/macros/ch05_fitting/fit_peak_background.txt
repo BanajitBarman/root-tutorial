@@ -1,0 +1,19 @@
+Processing fit_peak_background.C...
+****************************************
+Minimizer is Minuit2 / Migrad
+Chi2                      =      100.067
+NDf                       =           95
+Edm                       =  4.27906e-06
+NCalls                    =          170
+Height                    =      272.608   +/-   11.0213     
+Mean                      =      4.00308   +/-   0.0117217   
+Sigma                     =     0.291695   +/-   0.0118554   
+BkgConst                  =      6.47815   +/-   0.0111633   
+BkgSlope                  =    -0.326883   +/-   0.00326377  
+
+--- Results ---
+Peak position  = 4.00308 +- 0.0117217 GeV
+Peak width     = 0.291695 +- 0.0118554 GeV
+Signal events  = 1993.23 +- 74.6664   (we generated 2000)
+chi2 / ndf     = 100.067 / 95
+Info in <TCanvas::Print>: png file fit_peak_background.png has been created

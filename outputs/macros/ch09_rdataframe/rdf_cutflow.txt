@@ -1,0 +1,5 @@
+Events after all cuts: 24345
+Energy > 10 GeV     : pass=30247      all=50000      -- eff=60.49 % cumulative eff=60.49 %
+At least 5 hits     : pass=29112      all=30247      -- eff=96.25 % cumulative eff=58.22 %
+Inside r < 20 cm    : pass=25236      all=29112      -- eff=86.69 % cumulative eff=50.47 %
+No dominant hit     : pass=24345      all=25236      -- eff=96.47 % cumulative eff=48.69 %

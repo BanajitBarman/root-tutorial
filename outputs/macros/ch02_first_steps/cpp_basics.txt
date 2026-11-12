@@ -1,0 +1,11 @@
+Processing cpp_basics.C...
+electron: E = 13.6 eV, N = 1000, good = 1
+1/2   = 0   (integer division)
+1./2  = 0.5 (real division)
+High energy
+Sum of 1..100 = 5050
+e mass = 0.000511 GeV
+mu mass = 0.10566 GeV
+tau mass = 1.77686 GeV
+Kinetic energy = 9 J
+Histogram entries: 1

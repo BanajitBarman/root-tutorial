@@ -1,0 +1,11 @@
+****************************************
+Minimizer is Minuit2 / Migrad
+MinFCN                    =      16.9551
+Chi2                      =      33.9103
+NDf                       =           38
+Edm                       =  1.67688e-07
+NCalls                    =           38
+Constant                  =      6.34915   +/-   0.0209179   
+Slope                     =    -0.456617   +/-   0.00735609  
+Lifetime = 2.190 +- 0.035 us   (true value 2.197 us)
+Info in <TCanvas::Print>: png file muon_lifetime_py.png has been created

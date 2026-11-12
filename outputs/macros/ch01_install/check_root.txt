@@ -1,0 +1,4 @@
+Processing check_root.C...
+ROOT version: 6.40.04
+Everything is fine. You are ready for the tutorial.
+Info in <TCanvas::Print>: png file check_root.png has been created

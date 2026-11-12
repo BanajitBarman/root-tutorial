@@ -1,0 +1,4 @@
+Processing tree_reader.C...
+Events read                       : 50000
+Events with a hit above 10 GeV    : 2182
+Average (largest hit / total E)   : 0.420395
